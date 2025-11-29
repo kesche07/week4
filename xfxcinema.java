@@ -4,7 +4,7 @@ public class xfxcinema
     public static void main(String[] args){
         double child=150;
         double adult=250;
-        double senior=250;
+        double senior=200;
         
         int hindi=50;
         int english=100;
